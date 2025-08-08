@@ -44,8 +44,7 @@ To design an interactive sales dashboard in Power BI for business stakeholders, 
 - Note: Compile the LaTeX file in Overleaf with the dashboard screenshot inserted at the specified path.
 
 ## Dashboard Screenshot
-- (https://github.com/Bagiliabdulrahman/Elevate-Labs---Task-3-Dashboard-Design/blob/main/Screenshot%202025-08-08.png)
-
+[Sales Financial Dashboard](https://github.com/Bagiliabdulrahman/Elevate-Labs---Task-2-Data-Visualization-Storytelling/blob/main/Screenshot%202025-08-06%20223846.png)
 ## Key Insights
 - Japan leads sales at 18.4 million, followed by France at 17.7 million.
 - VTT Amariila has the highest manufacturing price at 27.3 thousand.
