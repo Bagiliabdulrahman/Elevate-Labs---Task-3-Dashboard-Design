@@ -32,7 +32,7 @@ To design an interactive sales dashboard in Power BI for business stakeholders, 
 - Total Quantity = SUM(Sales[Quantity])
 
 ## Presentation (PPT) Summary
-- File: Task3-Sales Financial Dashboard Design PPT
+File: Task3-Sales Financial Dashboard Design PPT
 - Content:
   - Objective: Outlines the design of an interactive dashboard with KPIs and filters.
   - Dataset and Tools: Details the Sales & Financial Dataset and Power BI usage.
