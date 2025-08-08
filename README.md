@@ -44,7 +44,7 @@ To design an interactive sales dashboard in Power BI for business stakeholders, 
 - Note: Compile the LaTeX file in Overleaf with the dashboard screenshot inserted at the specified path.
 
 ## Dashboard Screenshot
-- [Insert Screenshot URL Here]
+- (https://github.com/Bagiliabdulrahman/Elevate-Labs---Task-3-Dashboard-Design/blob/main/Screenshot%202025-08-08.png)
 
 ## Key Insights
 - Japan leads sales at 18.4 million, followed by France at 17.7 million.
